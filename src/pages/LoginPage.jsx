@@ -26,7 +26,7 @@ const LoginPage = () => {
 
        console.log(values);
 
-       navigate("/home")
+       navigate("/")
       },
     });
 
